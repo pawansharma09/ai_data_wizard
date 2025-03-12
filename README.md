@@ -40,7 +40,7 @@ Welcome to **AI Data Wizard** 🪄 – your interactive, Streamlit-powered data 
 
 ## Contributing 🤝
 
-Contributions are always welcome, Master! 🫅 Please review for guidelines on how to help improve this project. 🚀
+Contributions are always welcome. 🚀
 
 ## License 📜
 
