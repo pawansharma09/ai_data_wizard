@@ -96,6 +96,8 @@ def preprocessing_page():
                 data[col] = le.fit_transform(data[col])
             elif encoding == 'One-Hot Encoding':
                 data = pd.get_dummies(data, columns=[col])
+    else:
+        st.info("✨ No Categorical Column found!")
     
     # 4. Remove Duplicates
     st.subheader("4️⃣ Remove Duplicates")
